@@ -4,7 +4,7 @@ use strict;
 use warnings;
 
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 
 
@@ -26,11 +26,9 @@ DBI
 
 DBI::Dumper
 
-Inline::C
+Class::Accessor::Grouped
 
-DBIx::Class
-
-DBIx::Class::Schema
+MRO::Compat
 
 Ima::DBI
 
@@ -125,8 +123,6 @@ AnyData
 ResourcePool::Resource::Alzabo
 
 Class::AlzaboWrapper
-
-DBIx::Connect
 
 AppConfig
 
