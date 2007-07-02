@@ -1,5 +1,7 @@
-Bundle-SQL version 0.02
+Bundle-SQL version 0.03
 =======================
+
+
 
 INSTALLATION
 
@@ -16,9 +18,8 @@ This module requires these other modules and libraries:
 
   none
 
-COPYRIGHT AND LICENCE
+COPYRIGHT AND LICENSE
 
-Put the correct copyright and licence information here.
 
 Copyright (C) 2007 by Kevin W. Henwood
 

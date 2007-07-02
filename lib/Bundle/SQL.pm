@@ -4,7 +4,7 @@ use strict;
 use warnings;
 
 
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 
 
 
@@ -303,6 +303,55 @@ SQL::AnyDBD
 SQL::Catalog
 
 SQL::Schema
+
+Error
+
+Text::Simple
+
+File::NCopy
+
+Email::Send
+
+DBD::mysql
+
+Class::Driver
+
+Pod::Parser
+
+DBIx::Transaction
+
+Module::Build::Compat
+
+DBIx::Migration::Directories
+
+DBD::SQLite2
+
+SQLite::DB
+
+Text::NeatTemplate
+
+Text::ParseWords
+
+Getopt::ArgvFile
+
+SQLite::Work
+
+Archive::Tar
+
+IO::Zlib
+
+CPAN::DistnameInfo
+
+File::HomeDir
+
+DBIx::SQLite::Simple
+
+CPAN::SQLite
+
+CGI::Session::SQLite
+
+Class::DBI::SQLite
+
 
 =head1 AUTHOR
 
