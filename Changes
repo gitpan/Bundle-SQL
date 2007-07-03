@@ -1,6 +1,6 @@
 Revision history for Perl extension Bundle::SQL.
 
-0.03  Sun Jul  1 17:45:16 2007
+0.04  Tue Jul  3 01:59:21 2007
 	- original version; created by h2xs 1.23 with options
 		-AXcfn Bundle::SQL
-        -added some SQLite modules
+
